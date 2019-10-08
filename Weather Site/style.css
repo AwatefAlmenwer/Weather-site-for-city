@@ -1,0 +1,25 @@
+body{
+	background-image: url("riyadh.jpg");
+	background-size: 100%;
+	min-height: 100%;
+	width: 100%;
+	font-family: 'Lato', sans-serif;
+}
+button{
+    margin: 100px 0 90px 320px;
+	text-align: center;
+    width: 600px;
+    height: 50px;
+    font-size: 40px;
+    background-color: #DDD;
+
+}
+.box {
+	margin: 0 0 20px 400px;
+	padding: 10px;
+    width: 400px;
+    text-align: center;
+	padding: 10px;
+	background-color: #DDD;
+	display: none;
+}
